@@ -3,7 +3,8 @@
 
 ## Run with create-react-app
 
-Rename .env.template as .env, and then add your API key.
+### Rename .env.template as .env, and then add your API key.
+(or create your own .env with you own <REACT_APP_RAPID_API_KEY>)
 
 
 
